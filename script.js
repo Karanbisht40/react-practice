@@ -13,3 +13,4 @@ function updateMessage() {
 updateMessage();
 
 console.log(balance);
+console.log("money is honey ");
