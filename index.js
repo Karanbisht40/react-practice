@@ -11,3 +11,5 @@ console.log(payment);
 
 const upi = "intergrate upi";
 console.log(upi);
+
+log("code added in index.js");
