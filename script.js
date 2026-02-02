@@ -11,3 +11,5 @@ function updateMessage() {
     balance += 100;
 }
 updateMessage();
+
+console.log(balance);
