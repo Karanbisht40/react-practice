@@ -6,3 +6,6 @@ h3{
     color: orange;
     d: calc();
 }
+body{
+    background-color: lightgrey;
+}
